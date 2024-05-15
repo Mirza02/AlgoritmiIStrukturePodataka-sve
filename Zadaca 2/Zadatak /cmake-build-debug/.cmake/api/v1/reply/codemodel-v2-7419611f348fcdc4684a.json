@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Zadatak_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Zadatak_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zadatak_-Debug-b78edcbed0a32762371c.json",
+					"name" : "Zadatak_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mirzaolovcic/Desktop/CLion Projects/ASP/Zadaca 2/Zadatak /cmake-build-debug",
+		"source" : "/Users/mirzaolovcic/Desktop/CLion Projects/ASP/Zadaca 2/Zadatak "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

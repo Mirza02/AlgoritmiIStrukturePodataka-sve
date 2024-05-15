@@ -1,0 +1,3 @@
+/Users/mirzaolovcic/Desktop/CLion Projects/ASP/Zadaca 2/Zadatak /cmake-build-debug/CMakeFiles/Zadatak_.dir
+/Users/mirzaolovcic/Desktop/CLion Projects/ASP/Zadaca 2/Zadatak /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mirzaolovcic/Desktop/CLion Projects/ASP/Zadaca 2/Zadatak /cmake-build-debug/CMakeFiles/rebuild_cache.dir
